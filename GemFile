@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'dotenv'
+# Si usas rails, usa: gem 'dotenv-rails'
